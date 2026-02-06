@@ -2,7 +2,7 @@
 
 This project is a UI clone of the Cursor website homepage built using only HTML and CSS as part of an assignment.
 
-The goal was to recreate the main layout, colors, fonts, and sections as closely as possible while following all given constraints.  Live Demo--->
+The goal was to recreate the main layout, colors, fonts, and sections as closely as possible while following all given constraints.  Live Demo---> https://zahid2297.github.io/Cursor-Website-UI-Clone-HTML-CSS-/
 
 ---
 
