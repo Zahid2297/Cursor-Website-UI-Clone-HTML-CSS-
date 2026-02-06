@@ -1,107 +1,99 @@
-# Cursor Website UI Clone (HTML & CSS)
+# Cursor-Website-UI-Clone-HTML-CSS
 
-This project is a desktop-only UI recreation of the Cursor website homepage built using only HTML and CSS as part of an assignment.
+This project is a UI clone of the Cursor website homepage built using only HTML and CSS as part of an assignment.
 
-The focus was on matching the layout, fonts, colors, and overall visual structure of the original site while following the given constraints.
+The goal was to recreate the main layout, colors, fonts, and sections as closely as possible while following all given constraints.
 
-Sections Recreated
-1. Top Navigation Bar
+---
 
-Logo
+## Sections Recreated
 
-Navigation links
+### Top Navigation Bar
+- Logo  
+- Navigation links  
+- Primary call-to-action button  
+- Dark theme background  
 
-Primary CTA button
+### Hero Section
+- Main headline  
+- Download CTA button  
+- Large product screenshot  
 
-Dark background theme
+### Trusted By Section
+- Company logos displayed in a row  
 
-2. Hero Section
+### Feature Sections (3 Blocks)
+- Two-column layout (text + image)  
+- Alternating positions  
 
-Main headline
+### Feature Cards Section
+- Section title  
+- Grid layout with multiple cards  
 
-Download button CTA
+### Testimonials
+- Quote cards  
+- Person name and role  
 
-Large product screenshot
+### Use Cases / Stories
+- Card-based layout with short descriptions  
 
-3. Trusted By / Logos
+### Changelog / Updates
+- Version/date based update cards  
 
-Row of company logos in card layout
+### Team / About Section
+- Large image  
+- Short description  
+- CTA link  
 
-4. Feature Sections (3 Blocks)
+### Final Call To Action
+- Big heading  
+- Download button  
 
-Two-column layout (text + image)
+### Footer
+- Multi-column links  
+- Company info  
 
-Alternating image and text positions
+---
 
-5. Feature Cards Section
+## Fonts & Colors
 
-Section heading
+### Font Used
+- System UI font stack  
 
-Grid of three cards
+### Colors Used
+- Background: `#14120b`  
+- Text: `#edecec`  
+- Buttons: `#edecee`  
+- Hover: `#edecec7b`  
+- Accent links: `#f54e00`  
 
-Each card includes text, link, and image
+---
 
-6. Testimonials
+## Technologies
 
-Quote style cards
+- HTML5  
+- CSS3  
 
-Name and role for each person
+*(No JavaScript, no frameworks)*
 
-7. Use Cases / Stories
+---
 
-Card layout with short descriptions
+## Screenshots
 
-8. Changelog / Updates
 
-Update cards showing version/date and details
 
-9. Team / About Section
+---
 
-Large image
+## Constraints Followed
 
-Short description
+- Only HTML & CSS  
+- No JavaScript  
+- No TailwindCSS  
+- Desktop only  
+- No animations  
+- Layout matched closely to original  
 
-CTA link
+---
 
-10. Final CTA
+## Live Demo (if available)
 
-Big heading
-
-Download button
-
-11. Footer
-
-Multi-column links
-
-Company info
-
-Fonts & Colors Used
-Font
-
-System UI font stack (similar to original site)
-
-Colors
-
-Background: #14120b
-
-Primary text: #edecec
-
-Button color: #edecee
-
-Hover color: #edecec7b
-
-Accent link color: #f54e00
-
-Technologies Used
-
-HTML5
-
-CSS3
-
-No JavaScript
-No frameworks
-No TailwindCSS
-
-Screenshots
-
-(Add screenshots of your final output here)
