@@ -6,6 +6,18 @@ The goal was to recreate the main layout, colors, fonts, and sections as closely
 
 ---
 
+## Constraints Followed
+
+- Only HTML & CSS  
+- No JavaScript  
+- No TailwindCSS  
+- Desktop only  
+- No animations  
+- Layout matched closely to original
+  *(No JavaScript, no frameworks)*
+
+---
+
 ## Sections Recreated
 
 ### Top Navigation Bar
@@ -55,8 +67,6 @@ The goal was to recreate the main layout, colors, fonts, and sections as closely
 
 ---
 
-## Fonts & Colors
-
 ### Font Used
 - System UI font stack  
 
@@ -66,15 +76,6 @@ The goal was to recreate the main layout, colors, fonts, and sections as closely
 - Buttons: `#edecee`  
 - Hover: `#edecec7b`  
 - Accent links: `#f54e00`  
-
----
-
-## Technologies
-
-- HTML5  
-- CSS3  
-
-*(No JavaScript, no frameworks)*
 
 ---
 
@@ -91,14 +92,4 @@ The goal was to recreate the main layout, colors, fonts, and sections as closely
 ![screenshots](screenshots/ss10.png)
 
 
----
-
-## Constraints Followed
-
-- Only HTML & CSS  
-- No JavaScript  
-- No TailwindCSS  
-- Desktop only  
-- No animations  
-- Layout matched closely to original  
 
